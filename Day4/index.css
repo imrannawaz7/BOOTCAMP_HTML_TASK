@@ -1,0 +1,39 @@
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: steelblue;
+    color: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.welcome {
+    margin-top: 5em;
+    text-align: center;
+    justify-content: center;
+}
+
+.cred {
+    text-align: center;
+    margin-top: 20px;
+}
